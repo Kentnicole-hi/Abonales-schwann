@@ -1,0 +1,8 @@
+1. Project Title
+   “Guess The Number”
+2. What is the purpose of your project? Tell about your project?
+    My game is all about guessing a number by giving hints each time your answer is wrong and the purpose of this is to entertain some kids or even adults.
+3. How your program works? Explain how to run your program?
+  The game starts if you type a number. IF you type a number that is higher than the decided number that your going to guess then there
+  will be a hint that your guessed number is to high and you need to decrease your number same as if your hint said that it is to low so you neeed
+  to increase your number until you get the number that it is being guessed. You have unlimited attempts btw.
